@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Glueping Mag\Glueping Mag (World Ed)\bin\x64\Release\Glueping Mag_6.0.2203.0_x64.appx
+SymbolPackage=C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Glueping Mag\Glueping Mag (World Ed)\AppPackages\Glueping Mag_6.0.2203.0_Test\Glueping Mag_6.0.2203.0_x64.appxsym
